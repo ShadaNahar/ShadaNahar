@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shada Nahar</h1>
 <h3 align="center">A Bachelor's student in Statistics and a beginner in basic coding.</h3>
+<img align="right" alt="Codiing" width="400" src="https://dribbble.com/shots/9638918-Freelancing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadanahar&label=Profile%20views&color=0e75b6&style=flat" alt="shadanahar" /> </p>
 
