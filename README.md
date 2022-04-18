@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shada Nahar</h1>
 <h3 align="center">A Bachelor's student in Statistics and a beginner in basic coding.</h3>
-
-
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/9638918-Freelancing">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadanahar&label=Profile%20views&color=0e75b6&style=flat" alt="shadanahar" /> </p>
-
 <p align="left"> <a href="https://twitter.com/shadanahar" target="blank"><img src="https://img.shields.io/twitter/follow/shadanahar?logo=twitter&style=for-the-badge" alt="shadanahar" /></a> </p>
 
 - 📫 How to reach me **sn4info@gmail.com**
