@@ -1,7 +1,7 @@
 ![MasterHead](https://th.bing.com/th/id/R.8aa6e34cf54bb6f3d7ff4bb520d4051f?rik=q%2fykEdzRrtGHoQ&riu=http%3a%2f%2fstatic.tumblr.com%2f85b74e0cd74c8e59e3b6f33b92cca097%2fs7hlah4%2fw8Umh17oh%2ftumblr_static_elephant-banners.tumblr__1__large.gif&ehk=g3ydK%2fIK5rrBeIOHtfwFxQOVBS1a2NiJRMvE%2fLSVQ9s%3d&risl=&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm Shada Nahar</h1>
 <h3 align="center">A Bachelor's student in Statistics and a beginner in basic coding.</h3>
-<img align= "right" alt= "Codiing" width= "400" src="https://dribbble.com/shots/9638918-Freelancing">
+<img align= "right" alt= "Codiing" width= "400" src="https://cdn.dribbble.com/users/4363684/screenshots/9638918/media/5931834289e76b81c9415e6f6ef32f5a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadanahar&label=Profile%20views&color=0e75b6&style=flat" alt="shadanahar" /> </p>
 
